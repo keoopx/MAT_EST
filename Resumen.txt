@@ -1,2 +1,5 @@
-Diseño de una hoja de matrvciulas con registro en base de datos de estudiantes por grado. 
-REgistro de docentes por Ciudad, Institución Educativa y Sede. 
+Diseño de una hoja de matriculas con registro en base de datos de estudiantes por grado. 
+Registro de docentes por Ciudad, Institución Educativa y Sede. 
+
+
+Aplicación desarrollada para instituciones educativas en el departamento del Cesar
